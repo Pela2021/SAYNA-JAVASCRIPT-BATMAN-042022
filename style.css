@@ -1,0 +1,210 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.menu img {
+    position: relative;     
+}
+.font {
+    position: absolute;
+    top: 20%;
+    color: #FFFFFF;
+    display: flex;
+    text-align: center;
+}
+.cal{
+    display: flex;
+    justify-content: space-between;
+}
+.font col{
+    display: flex;
+    color: #FFFFFF;
+    float: right;
+}
+.col1 img{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-right: 0px;
+}
+.col1{
+    justify-content: space-between;
+    flex-direction: column;
+    margin-left: 400px;
+    padding-top: 200px;
+}
+.font a{
+    justify-content: space-between;
+}
+.mam{
+    margin-top: 200px;
+    margin-left: 400px;
+
+}
+.font button{
+    opacity: 50%;
+    width: 150px;
+    height: 40px;
+    margin: 20px;
+   margin-top: 80px;
+   
+}
+.toute {
+    color: #FFFFFF;
+    background-color:#000000;
+}
+.toute img{
+    text-align: center;
+}
+.toute p{
+    width: 50%;
+    text-align: center;
+}
+.toute img{
+    justify-content: center;
+}
+.batman {
+    display: flex;
+    padding-top: 50px;
+    justify-content: space-around;
+}
+.nimesis{
+     justify-content: space-between;
+}
+.bgrnd img{
+    top: 20%;
+}
+.fr{
+    display: flex;
+}
+.col3 button{
+    opacity: 50%;
+    border: solid;
+}
+.col3{
+    background-color: black;
+    padding-bottom: 20%;
+}
+.col3 p{
+    width: 45%;
+    color: #FFFFFF;
+}
+.col3 h3{
+    color: #FFFFFF;
+}
+.mila button{
+   width: 50%;
+}
+.mila{
+    background-color: #000000;
+}
+.mira{
+    text-align: center;
+}
+.contact{
+    background-color:grey;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 100px;
+}
+.contact button{
+    width: 20%;
+    opacity: 50%;
+}
+.comp{
+    background-color: black;
+    color: #FFFFFF;
+    justify-content: center;
+}
+.mamy{
+    display: flex;
+
+}
+.masy{
+    display: flex;
+}
+.fanahy{
+    text-align: center;
+}
+.fanahy img{
+    margin: 20px;
+    text-align: center;
+}
+.reponse{
+   background-color: #c4c4c4;
+   width: 80px;
+   margin-left: 100px;
+   height: 30PX;
+}
+.bckrnd{
+   text-align: center;
+   color: #000000;
+}
+.toute h2{
+    text-align: left;
+    margin-left: 90px;
+}
+.toute p{
+    text-align: left;
+    margin-left: 90px;
+}
+.zoom{
+   margin-left: 100px;
+
+}
+.nemesis img{
+  justify-content: space-between;
+  margin-left: 100px;
+}
+.mino{
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 200px;
+}
+.mino p{
+      text-align: center;
+      opacity: 50%;
+}
+.mira img{
+    height: 500px;
+    margin: 100px;
+}
+.sn img{
+    width: 800px;
+    height: 500px;
+}
+.masy{
+    justify-content: center;
+}
+.prix button{
+    background-image: linear-gradient(to right top, #ffffff, #e5cae8, #df90b8, #d5526e, #b11313);
+    opacity: 60%;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+}
+.fan button{
+    width: 100px;
+    height: 20px;
+}
+.fan input{
+    background-image: linear-gradient(to right top, #ffffff, #e5cae8, #df90b8, #d5526e, #b11313);
+    opacity: 60%;
+    color: #FFFFFF;
+    width: 100px;
+    height: 20px;
+    margin-top: 30px;
+}
+.beau{
+    margin-left: 500px;
+}
+
+.vert{
+    margin-left: 600px;
+}
+.mamy{
+    margin-left: 400px;
+    margin-top: 40px;
+    padding-top: 30px;
+}
